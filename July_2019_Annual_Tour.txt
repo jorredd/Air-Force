@@ -1,1 +1,11 @@
 Day 1: Assisted in the Search and Rescue of Sheryl Powell who went missing in Inyo County during a hiking trip. Efficently used Daart and Google Earth to plot coordinates recieved from the video feed being relayed from a C-130.
+
+Day 2: Completed EMAC training
+       started Defense Support of Civil Authorities (DSCA) Phase I Course (6 hrs)
+
+
+
+Disregard this code
+if(document.querySelector("#nav a#nav_next").getAttribute("href") == '#') {
+	document.querySelector("#nav a#nav_next").click();
+}
