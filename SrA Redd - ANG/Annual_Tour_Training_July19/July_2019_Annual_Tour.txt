@@ -31,7 +31,9 @@ Day 10:
      Completed Virtual Reality training on Assets commonly utilized by advesaries 
      Re-Scheduled Pre-Screening interview to take place following day
 Day 11:
-
+    Performed Pre-Screen interview
+    Established Arcnet connection with 234th IS
+     
 Day 12:
 
 Day 13:
